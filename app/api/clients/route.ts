@@ -1,4 +1,4 @@
-import { IClient } from "./interface";
+import { IClient } from "../../interface";
 
 const clients: IClient[] = [
     {
